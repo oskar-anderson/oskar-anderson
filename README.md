@@ -11,26 +11,28 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=MinimumSpanningTree)](https://github.com/oskar-anderson/MinimumSpanningTree)
 
 
-🐍 Languages
+🐍🪛 Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-anderson&layout=compact&custom_title=Top+5+languages)
 
-<img alt="php" src="./img/php.svg" width="24px">
-<img alt="csharp" src="./img/csharp.svg" width="24px">
-<img alt="python" src="./img/python.svg" width="24px">
+<!-- 
+Icons from https://simpleicons.org/ 
+-->
+<img align="left" alt="csharp" src="./img/csharp.svg" width="24px">
+<img align="left" alt="python" src="./img/python.svg" width="24px">
+<img align="left" alt="php" src="./img/php.svg" width="24px">
 
-<img alt="css3" src="./img/css3.svg" width="24px">
-<img alt="html5" src="./img/html5.svg" width="24px">
-<img alt="javascript" src="./img/javascript.svg" width="24px">
-<img alt="typescript" src="./img/typescript.svg" width="24px">
+<img align="left" alt="css3" src="./img/css3.svg" width="24px">
+<img align="left" alt="html5" src="./img/html5.svg" width="24px">
+<img align="left" alt="javascript" src="./img/javascript.svg" width="24px">
+<img align="left" alt="typescript" src="./img/typescript.svg" width="24px">
 
+&nbsp;  <!-- br element did not work, weird ... -->
 
-🪛 Tools
-
-<img alt="jetbrains" src="./img/jetbrains.svg" width="24px">
-<img alt="visualstudiocode" src="./img/visualstudiocode.svg" width="24px">
-<img alt="postman" src="./img/postman.svg" width="24px">
-<img alt="virtualbox" src="./img/virtualbox.svg" width="24px">
+<img align="left" alt="jetbrains" src="./img/jetbrains.svg" width="24px">
+<img align="left" alt="visualstudiocode" src="./img/visualstudiocode.svg" width="24px">
+<img align="left" alt="postman" src="./img/postman.svg" width="24px">
+<img align="left" alt="virtualbox" src="./img/virtualbox.svg" width="24px"><br><br>
 
 
 
