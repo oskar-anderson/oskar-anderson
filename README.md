@@ -1,13 +1,13 @@
-<video autoplay loop>
-    <source src="./gif/karl-oskar-anderson.mp4"/>
-    Video not supported.
-</video>
 
-🌱 I’m currently finnishing my bachelor's degree in IT Systems Development (IADB) at Taltech.
+![karl-oskar-anderson](./img/karl-oskar-anderson.png)[^1]
+[^1]: [This](https://raw.githubusercontent.com/oskar-anderson/oskar-anderson/main/gif/karl-oskar-anderson.mp4) was supposed to be animated, but Github did not like that. Done with [Kapsas.](https://github.com/oskar-anderson/Kapsas)
+---
+
+🌱 I’m currently finishing my bachelor's degree in IT Systems Development (IADB) at Taltech.
 
 
 📌 Pinned repos
-
+---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=Tempsens)](https://github.com/oskar-anderson/Tempsens)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=maanteeamet-timescanner)](https://github.com/oskar-anderson/maanteeamet-timescanner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=Kapsas)](https://github.com/oskar-anderson/Kapsas)
@@ -15,8 +15,9 @@
 
 
 🐍🪛 Languages and Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-anderson&layout=compact&custom_title=Top+5+languages)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskar-anderson&layout=compact&custom_title=Top+5+languages&langs_count=8&hide=scss)
+![asd](https://github-langs.herokuapp.com/?username=oskar-anderson)
 
 <!-- 
 Icons from https://simpleicons.org/ 
@@ -37,14 +38,17 @@ Icons from https://simpleicons.org/
 <img align="left" alt="postman" src="./img/postman.svg" width="24px">
 <img align="left" alt="virtualbox" src="./img/virtualbox.svg" width="24px"><br><br>
 
-🐍 Snake eating my contribution 🐍
+🐍 Snake eating my contributions 🐍
+---
 ![Contribution](./gif/github-contribution-grid-snake.gif)
 
-💬 Fun - Pop culture Anderson quotes: (Do you know any more?)
+💬 Fun - Pop culture Anderson quotes:
+---
 * "You're going to help us Mr. Anderson whether you want to or not." <cite>--Agent Smith (The Matrix)</cite>
 * "Lieutenant Andeson, I must inform you that I intend to file a report on your behavior." <cite>--Connor (Detroit Become Human)</cite>
-<!-- possible new one https://www.anisearch.com/character/95265,anderson -->
+* Do you know any more?
 
+<!-- possible new one https://www.anisearch.com/character/95265,anderson -->
 
 <!--
 **oskar-anderson/oskar-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
