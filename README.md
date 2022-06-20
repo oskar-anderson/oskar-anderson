@@ -1,4 +1,4 @@
-### Hello there! 👋
+<img alt="karl-oskar-anderson" src="./gif/karl-oskar-anderson.webm">
 
 🌱 I’m currently finnishing my bachelor's degree in IT Systems Development (IADB) at Taltech.
 
