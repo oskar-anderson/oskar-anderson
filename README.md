@@ -34,7 +34,8 @@ Icons from https://simpleicons.org/
 <img align="left" alt="postman" src="./img/postman.svg" width="24px">
 <img align="left" alt="virtualbox" src="./img/virtualbox.svg" width="24px"><br><br>
 
-
+🐍 Snake eating my contribution 🐍
+![Contribution](./gif/github-contribution-grid-snake.gif)
 
 💬 Fun - Pop culture Anderson quotes: (Do you know any more?)
 * "You're going to help us Mr. Anderson whether you want to or not." <cite>--Agent Smith (The Matrix)</cite>
