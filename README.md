@@ -1,7 +1,7 @@
 <video autoplay loop>
-    <source src="./gif/karl-oskar-anderson.webm" type="video/webm" />
+    <source src="./gif/karl-oskar-anderson.mp4"/>
     Video not supported.
-</video>    
+</video>
 
 🌱 I’m currently finnishing my bachelor's degree in IT Systems Development (IADB) at Taltech.
 
