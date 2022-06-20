@@ -1,5 +1,5 @@
 <video autoplay loop>
-    <source src="./gif/karl-oskar-anderson.webm"/>
+    <source src="./gif/karl-oskar-anderson.webm" type="video/webm" />
     Video not supported.
 </video>    
 
