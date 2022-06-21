@@ -46,6 +46,7 @@ Icons from https://simpleicons.org/
 ---
 * "You're going to help us Mr. Anderson whether you want to or not." <cite>--Agent Smith (The Matrix)</cite>
 * "Lieutenant Andeson, I must inform you that I intend to file a report on your behavior." <cite>--Connor (Detroit Become Human)</cite>
+* "[Are you okay Anderson?](https://www.youtube.com/watch?v=Owrj4i2rpwc&t=112s)" <cite>--Conan O'Brien</cite>
 * Do you know any more?
 
 <!-- possible new one https://www.anisearch.com/character/95265,anderson -->
