@@ -36,6 +36,10 @@ Icons from https://simpleicons.org/
 <img align="left" alt="postman" src="./img/postman.svg" width="24px">
 <img align="left" alt="virtualbox" src="./img/virtualbox.svg" width="24px"><br><br>
 
+💼 Business
+---
+Resume: [repo](https://github.com/oskar-anderson/CV), [live](https://oskar-anderson.github.io/CV/)
+
 🐍 Snake eating my contributions 🐍
 ---
 ![Contribution](./gif/github-contribution-grid-snake.gif)
