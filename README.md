@@ -49,7 +49,7 @@ Resume: [repo](https://github.com/oskar-anderson/CV), [live](https://oskar-ander
 * "You're going to help us Mr. Anderson whether you want to or not." <cite>--Agent Smith (The Matrix)</cite>
 * "Lieutenant Andeson, I must inform you that I intend to file a report on your behavior." <cite>--Connor (Detroit Become Human)</cite>
 * "[Are you okay Anderson?](https://www.youtube.com/watch?v=Owrj4i2rpwc&t=112s)" <cite>--Conan O'Brien</cite>
-
+* "[What the hell?](https://youtu.be/DczunJjH47U?t=249)" <cite>--Tom Anderson (Beavis & Butthead)</cite> 
 <!-- possible new one https://www.anisearch.com/character/95265,anderson -->
 ---
 [^1]: [This](https://raw.githubusercontent.com/oskar-anderson/oskar-anderson/main/gif/karl-oskar-anderson.mp4) was supposed to be animated, but Github did not like that. Done with [Kapsas.](https://github.com/oskar-anderson/Kapsas)
