@@ -7,12 +7,13 @@
 
 📌 Pinned repos
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=RasterModeler)](https://github.com/oskar-anderson/RasterModeler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=Tempsens)](https://github.com/oskar-anderson/Tempsens)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=maanteeamet-timescanner)](https://github.com/oskar-anderson/maanteeamet-timescanner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=Kapsas)](https://github.com/oskar-anderson/Kapsas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=MinimumSpanningTree)](https://github.com/oskar-anderson/MinimumSpanningTree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=Multikeys)](https://github.com/oskar-anderson/Multikeys)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oskar-anderson&repo=SQL2CSV)](https://github.com/oskar-anderson/SQL2CSV)
+
 
 
 🐍🪛 Languages and Tools
